@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @sangolan
+- 👋🏻 Hi, I’m @sangolan
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Web 3.0
-- 💞️ I’m looking forward to working remotly on Interesting Projects
-- 📫 How to reach me: Telegram pm
-- 😄 Pronouns: He/Him
+- 👨🏻‍💻 I’m looking forward to working remotly
+- 📫 How to reach me: Telegram private messages @sangolan
+- 🗣️ Pronouns: He/Him
 - ⚡ Fun fact: 1 out of 12 million spam emails receive a reply
 
 <!---
